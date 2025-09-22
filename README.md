@@ -37,7 +37,7 @@ The system uses **Generator, Evaluator, and Mediator agents** to propose, review
 
    * Logs and stores the final classification.
 
- ![agents](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Multi-agent-system-product-classification/main/agents-logic.png
+ ![agents](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Multi-agent-system-product-classification/agents-logic.png
 
 ---
 
