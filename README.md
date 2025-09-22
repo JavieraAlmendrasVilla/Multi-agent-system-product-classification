@@ -124,6 +124,10 @@ Final dataframe includes:
 
 ![agents-output](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Multi-agent-system-product-classification/main/Agents%20discussion.png)
 
+Solution for a random sample of 20 products from the [UCI E-commerce dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
+![categories](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Multi-agent-system-product-classification/main/wordclouds_by_agents.png)
+
 ---
 
 ## 🧪 Roadmap
