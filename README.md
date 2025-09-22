@@ -133,7 +133,7 @@ Solution for a random sample of 20 products from the [UCI E-commerce dataset](ht
 ## 🧪 Roadmap
 
 * [ ] Improve taxonomy coverage (electronics, automotive, etc.)
-* [ ] Improve agent logic to avoid cluster overfitting 
+* [ ] Implement React agents to improve accuracy and avoid overfitting 
 * [ ] Reduce run-time
 * [ ] Extend with multilingual product classification
 
