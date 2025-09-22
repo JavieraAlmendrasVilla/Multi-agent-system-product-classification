@@ -133,8 +133,8 @@ Solution for a random sample of 20 products from the [UCI E-commerce dataset](ht
 ## 🧪 Roadmap
 
 * [ ] Improve taxonomy coverage (electronics, automotive, etc.)
-* [ ] Add vector similarity fallback (cosine/HNSW) for ambiguous cases
-* [ ] Deploy as API for batch processing
+* [ ] Improve agent logic to avoid cluster overfitting 
+* [ ] Reduce run-time
 * [ ] Extend with multilingual product classification
 
 ---
