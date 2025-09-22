@@ -122,6 +122,8 @@ Final dataframe includes:
 * **Reason** → Explanation for decision
 * **Confidence** → Confidence score (0.5–0.7 default)
 
+![agents-output](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Multi-agent-system-product-classification/main/Agents%20discussion.png)
+
 ---
 
 ## 🧪 Roadmap
