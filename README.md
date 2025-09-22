@@ -141,6 +141,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 MIT License. See [LICENSE](LICENSE) for details.
 
----
 
-Do you also want me to add **dataset preparation instructions** (normalization of `StockCode` and repeated words filtering) into the README so new users can preprocess their data correctly before running the pipeline?
